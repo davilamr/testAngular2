@@ -1,9 +1,11 @@
 # Todos2
 
-This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.17.
+This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.19.
 
-- Live demo can be found at: [http://adrianmejia.com/angular2-todo-app/](http://adrianmejia.com/angular2-todo-app/)
-- Blog post at: [http://adrianmejia.com/blog/2016/10/01/Angular-2-Tutorial-Create-a-CRUD-App-with-Angular-CLI-and-TypeScript](http://adrianmejia.com/blog/2016/10/01/Angular-2-Tutorial-Create-a-CRUD-App-with-Angular-CLI-and-TypeScript)
+- Live demo can be found at: [https://davilamr.github.io/testAngular2)
+
+## First Step
+Run `node install`
 
 ## Development server
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
